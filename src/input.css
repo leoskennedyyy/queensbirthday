@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme{
+    --font-custom:"Dancing Script", "cursive";
+    --color-primary:#EC7FA9;
+    --color-secondary:#FFB8E0;
+    --color-third:#FFEDFA;
+    --color-font:#3D0301;
+}
