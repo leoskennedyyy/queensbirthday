@@ -35,7 +35,7 @@
       --font-mono--font-variation-settings
     );
     --font-custom: "Dancing Script", "cursive";
-    --color-secondary: #f7b5e4;
+    --color-secondary: #f772d2;
     --color-third: #FFEDFA;
     --color-font: #3D0301;
   }
@@ -461,14 +461,14 @@
   .w-1\/2 {
     width: calc(1/2 * 100%);
   }
-  .w-3\/4 {
-    width: calc(3/4 * 100%);
-  }
   .w-full {
     width: 100%;
   }
   .w-screen {
     width: 100vw;
+  }
+  .max-w-3\/4 {
+    max-width: calc(3/4 * 100%);
   }
   .max-w-none {
     max-width: none;
