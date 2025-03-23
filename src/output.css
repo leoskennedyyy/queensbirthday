@@ -35,8 +35,8 @@
       --font-mono--font-variation-settings
     );
     --font-custom: "Dancing Script", "cursive";
-    --color-secondary: #FFB8E0;
-    --color-third: ###f7b5e4;
+    --color-secondary: #f7b5e4;
+    --color-third: #FFEDFA;
     --color-font: #3D0301;
   }
 }
